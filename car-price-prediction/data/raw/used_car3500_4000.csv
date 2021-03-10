@@ -1,0 +1,501 @@
+year,brand,model,mileage,condition,body_type,color,drive_type,fuel,drive_setup,transmission,interior_type,door_count,star,review_no,date_posted,price
+2005,lexus,ls,55,locally used,saloons,silver,2 wheel drive,petrol,lefthand drive,automatic,leather,4,5,1,2020-08-05,1850000
+2010,toyota,4-runner,150,foreign used,4 wheel drives & suvs,grey,4 wheel drive,petrol,lefthand drive,automatic,leather,4,5,7,2020-08-27,7200000
+2010,bmw,320d,120,foreign used,saloons,black,2 wheel drive,petrol,lefthand drive,manual,cloth,4,0,0,2020-08-21,2400000
+2002,hyundai,h1,170,foreign used,"buses, taxis and vans",white,4 wheel drive,diesel,lefthand drive,manual,cloth,3,0,0,2020-08-04,1500000
+2015,toyota,corolla,17707,foreign used,saloons,white,2 wheel drive,petrol,lefthand drive,automatic,cloth,4,5,42,2020-07-16,5500000
+1999,lexus,rx,193003,foreign used,4 wheel drives & suvs,white,4 wheel drive,petrol,lefthand drive,automatic,leather,4,5,1,2020-08-20,2100000
+2013,toyota,hilux,64000,locally used,pickups,white,4 wheel drive,petrol,lefthand drive,manual,cloth,4,0,0,2020-07-10,7800000
+1998,daihatsu,hijet,90,foreign used,"buses, taxis and vans",blue,2 wheel drive,petrol,lefthand drive,manual,cloth,3,0,0,2020-07-07,950000
+2008,honda,cr-v,105,foreign used,4 wheel drives & suvs,green,4 wheel drive,petrol,lefthand drive,automatic,leather,4,5,6,2020-07-13,2800000
+2004,honda,accord,178,foreign used,saloons,silver,2 wheel drive,petrol,lefthand drive,automatic,cloth,4,5,37,2020-08-21,1350000
+2009,toyota,sienna,108598,foreign used,"buses, taxis and vans",black,4 wheel drive,petrol,lefthand drive,automatic,cloth,4,4,4,2020-08-10,2500000
+2009,acura,mdx,97000,locally used,4 wheel drives & suvs,grey,4 wheel drive,petrol,lefthand drive,automatic,leather,4,5,1,2020-08-27,2750000
+2013,toyota,camry,46000,locally used,saloons,red,2 wheel drive,petrol,lefthand drive,automatic,other,4,5,56,2020-09-03,4400000
+2007,toyota,solara,107000,locally used,coupes,brown,2 wheel drive,petrol,lefthand drive,automatic,cloth,2,0,0,2020-08-29,1000000
+2005,acura,mdx,90000,locally used,4 wheel drives & suvs,silver,4 wheel drive,petrol,lefthand drive,automatic,leather,4,5,1,2020-08-30,1200000
+2011,lexus,es,1,foreign used,saloons,dark grey,2 wheel drive,petrol,lefthand drive,automatic,leather,4,5,6,2020-08-25,3500000
+2013,toyota,venza,96848,locally used,hatchbacks,black,4 wheel drive,petrol,lefthand drive,automatic,leather,4,5,3,2020-08-31,4500000
+2007,mercedes-benz,e350,180000,locally used,saloons,black,2 wheel drive,petrol,lefthand drive,automatic,leather,4,5,2,2020-08-12,2200000
+2016,mercedes-benz,gle-450,2117,locally used,saloons,white,2 wheel drive,petrol,lefthand drive,automatic,leather,4,0,0,2020-07-30,35000000
+2011,toyota,rav4,81685,foreign used,4 wheel drives & suvs,silver,4 wheel drive,petrol,lefthand drive,automatic,leather,4,5,7,2020-07-09,4000000
+2006,mitsubishi,spacewagon,293000,locally used,"buses, taxis and vans",silver,4 wheel drive,petrol,lefthand drive,manual,cloth,4,4,1,2020-08-11,1200000
+2014,hyundai,elantra,840000,foreign used,saloons,blue,2 wheel drive,petrol,lefthand drive,automatic,cloth,4,4,2,2020-08-12,3800000
+2006,infiniti,fx,180000,locally used,hatchbacks,silver,4 wheel drive,petrol,lefthand drive,automatic,leather,4,0,0,2020-08-14,1200000
+2009,honda,civic,75182,locally used,saloons,blue,2 wheel drive,petrol,lefthand drive,automatic,cloth,4,5,19,2020-08-10,1400000
+2005,toyota,camry,146662,locally used,saloons,grey,2 wheel drive,petrol,lefthand drive,automatic,cloth,4,5,56,2020-08-11,1500000
+2012,ford,edge,104000,locally used,4 wheel drives & suvs,black,4 wheel drive,petrol,lefthand drive,automatic,leather,4,5,1,2020-07-16,2850000
+2010,buick,enclave,13000,locally used,hatchbacks,white,4 wheel drive,petrol,lefthand drive,automatic,leather,4,0,0,2020-08-12,5000000
+2008,hyundai,elantra,99000,foreign used,saloons,maroon,2 wheel drive,petrol,lefthand drive,automatic,cloth,4,4,2,2020-08-18,2100000
+2015,mercedes-benz,e200,22400,locally used,saloons,brown,2 wheel drive,petrol,lefthand drive,automatic,leather,4,0,0,2020-08-14,10500000
+2010,honda,accord,105000,locally used,saloons,grey,2 wheel drive,petrol,lefthand drive,automatic,leather,4,5,37,2020-08-21,2200000
+2008,honda,cr-v,152493,locally used,4 wheel drives & suvs,red,4 wheel drive,petrol,lefthand drive,automatic,leather,4,5,6,2020-08-30,1600000
+2015,toyota,corolla,76000,locally used,saloons,silver,2 wheel drive,petrol,lefthand drive,automatic,cloth,4,5,42,2020-08-23,3500000
+2018,mercedes-benz,gle-350,23700,foreign used,4 wheel drives & suvs,black,4 wheel drive,petrol,lefthand drive,automatic,leather,4,0,0,2020-08-27,17000000
+2008,toyota,corolla,142662,locally used,saloons,red,2 wheel drive,petrol,lefthand drive,automatic,cloth,4,5,42,2020-08-31,1450000
+2015,lexus,rx,44000,foreign used,hatchbacks,white,4 wheel drive,petrol,lefthand drive,automatic,leather,4,5,1,2020-08-22,12000000
+2010,lexus,es,95800,foreign used,saloons,silver,2 wheel drive,petrol,lefthand drive,automatic,leather,4,5,6,2020-08-18,4200000
+2011,mercedes-benz,c300,1900,locally used,saloons,black,2 wheel drive,petrol,lefthand drive,automatic,leather,4,5,2,2020-08-29,3500000
+2007,toyota,sienna,128000,foreign used,"buses, taxis and vans",maroon,4 wheel drive,petrol,lefthand drive,automatic,cloth,4,4,4,2020-09-04,2300000
+2009,honda,cr-v,2060,foreign used,4 wheel drives & suvs,silver,4 wheel drive,petrol,lefthand drive,automatic,cloth,4,5,6,2020-08-17,2700000
+1999,mercedes-benz,ml-320,172910,foreign used,4 wheel drives & suvs,black,4 wheel drive,petrol,lefthand drive,automatic,cloth,4,5,2,2020-08-19,1500000
+2009,honda,accord,80105,foreign used,saloons,grey,2 wheel drive,petrol,lefthand drive,automatic,leather,4,5,37,2020-08-30,2200000
+2009,toyota,hilux,150000,locally used,pickups,white,4 wheel drive,petrol,lefthand drive,manual,cloth,4,0,0,2020-09-03,3750000
+2012,volkswagen,cc,76000,locally used,saloons,black,2 wheel drive,petrol,lefthand drive,automatic,leather,4,0,0,2020-08-24,1500000
+2006,toyota,tacoma,117000,locally used,pickups,black,4 wheel drive,petrol,lefthand drive,automatic,cloth,4,0,0,2020-08-20,4000000
+2008,toyota,hiace,,foreign used,"buses, taxis and vans",black,4 wheel drive,petrol,lefthand drive,automatic,cloth,4,0,0,2020-09-04,5900000
+2009,toyota,hiace,,foreign used,"buses, taxis and vans",silver,4 wheel drive,petrol,lefthand drive,automatic,cloth,4,0,0,2020-09-04,4650000
+2014,mercedes-benz,gl-450,28000,foreign used,4 wheel drives & suvs,black,4 wheel drive,petrol,lefthand drive,automatic,leather,4,0,0,2020-09-06,16499000
+2012,isuzu,npr,,foreign used,trucks,white,4 wheel drive,petrol,lefthand drive,automatic,cloth,2,0,0,2020-06-24,11500000
+2012,mercedes-benz,c300,,foreign used,saloons,dark blue,2 wheel drive,petrol,lefthand drive,automatic,leather,4,5,2,2020-06-24,5500000
+2009,volkswagen,routan,,foreign used,"buses, taxis and vans",white,4 wheel drive,petrol,lefthand drive,automatic,cloth,4,0,0,2020-06-24,2800000
+2008,mitsubishi,raider,,foreign used,pickups,red,4 wheel drive,petrol,lefthand drive,automatic,cloth,4,0,0,2020-06-25,4300000
+2010,land-rover,lr4,,foreign used,4 wheel drives & suvs,black,4 wheel drive,petrol,lefthand drive,automatic,leather,4,0,0,2020-06-24,7500000
+2003,lexus,es-300,,foreign used,saloons,silver,2 wheel drive,petrol,lefthand drive,automatic,leather,4,0,0,2020-06-24,2200000
+2009,volkswagen,beetle,,foreign used,saloons,red,2 wheel drive,petrol,lefthand drive,manual,leather,2,0,0,2020-06-25,1800000
+2007,nissan,rogue,,foreign used,4 wheel drives & suvs,grey,4 wheel drive,petrol,lefthand drive,automatic,leather,4,0,0,2020-06-25,2200000
+2005,toyota,corolla,125000,foreign used,saloons,grey,2 wheel drive,petrol,lefthand drive,automatic,cloth,4,5,42,2020-07-25,2050000
+2009,mercedes-benz,g550,,foreign used,4 wheel drives & suvs,black,4 wheel drive,petrol,lefthand drive,automatic,leather,4,0,0,2020-06-27,20000000
+2007,toyota,avalon,,foreign used,saloons,black,2 wheel drive,petrol,lefthand drive,automatic,cloth,4,4,5,2020-06-26,2500000
+2015,chevrolet,silverado,,foreign used,pickups,black,4 wheel drive,petrol,lefthand drive,automatic,cloth,4,0,0,2020-06-26,14500000
+2010,land-rover,lr4,,foreign used,4 wheel drives & suvs,gold,4 wheel drive,petrol,lefthand drive,automatic,leather,4,0,0,2020-06-27,8500000
+2000,mercedes-benz,slk-class,,foreign used,coupes,black,2 wheel drive,petrol,lefthand drive,automatic,leather,2,0,0,2020-06-27,1800000
+2013,acura,rdx,,foreign used,4 wheel drives & suvs,black,4 wheel drive,petrol,lefthand drive,automatic,leather,4,0,0,2020-06-29,7500000
+2008,mercedes-benz,s550,,foreign used,saloons,silver,2 wheel drive,petrol,lefthand drive,automatic,leather,4,0,0,2020-06-29,7000000
+2008,mercedes-benz,clk,,foreign used,convertibles,red,2 wheel drive,petrol,lefthand drive,automatic,leather,2,5,1,2020-06-27,5500000
+2010,bmw,550i,,foreign used,saloons,black,2 wheel drive,petrol,lefthand drive,automatic,leather,4,0,0,2020-06-27,7500000
+2006,chrysler,300c,,foreign used,saloons,blue,2 wheel drive,petrol,lefthand drive,automatic,leather,4,0,0,2020-06-30,3000000
+2007,mercedes-benz,s550,,foreign used,saloons,green,2 wheel drive,petrol,lefthand drive,automatic,leather,4,0,0,2020-06-30,6000000
+2008,honda,accord,,foreign used,saloons,grey,2 wheel drive,petrol,lefthand drive,automatic,cloth,4,5,37,2020-06-30,2000000
+2013,toyota,rav4,68173,foreign used,4 wheel drives & suvs,black,4 wheel drive,petrol,lefthand drive,automatic,cloth,4,5,7,2020-06-16,5900000
+2008,toyota,highlander,91072,foreign used,4 wheel drives & suvs,grey,4 wheel drive,petrol,lefthand drive,automatic,leather,4,5,8,2020-06-28,4250000
+2008,toyota,highlander,91072,foreign used,4 wheel drives & suvs,red,4 wheel drive,petrol,lefthand drive,automatic,cloth,4,5,8,2020-06-10,3950000
+2005,honda,pilot,101732,foreign used,4 wheel drives & suvs,blue,4 wheel drive,petrol,lefthand drive,automatic,cloth,4,4,1,2020-06-11,1700000
+2007,toyota,yaris,91073,foreign used,saloons,silver,2 wheel drive,petrol,lefthand drive,automatic,cloth,4,5,2,2020-06-11,1950000
+2010,toyota,camry,91073,foreign used,saloons,red,2 wheel drive,petrol,lefthand drive,automatic,leather,4,5,56,2020-06-16,2850000
+2004,lexus,rx,,foreign used,4 wheel drives & suvs,silver,4 wheel drive,petrol,lefthand drive,automatic,leather,4,5,1,2020-05-26,3150000
+2010,toyota,corolla,,foreign used,saloons,white,2 wheel drive,petrol,lefthand drive,automatic,cloth,4,5,42,2020-05-24,2580000
+2007,toyota,rav4,,foreign used,4 wheel drives & suvs,black,4 wheel drive,petrol,lefthand drive,automatic,cloth,4,5,7,2020-05-24,2680000
+2006,ford,explorer,,foreign used,4 wheel drives & suvs,dark blue,4 wheel drive,petrol,lefthand drive,automatic,leather,4,4,1,2020-05-24,2650000
+2007,mercedes-benz,r-class,,foreign used,"buses, taxis and vans",silver,4 wheel drive,petrol,lefthand drive,automatic,leather,4,0,0,2020-05-24,3000000
+2015,honda,accord,,foreign used,saloons,silver,2 wheel drive,petrol,lefthand drive,automatic,leather,4,5,37,2020-05-24,6500000
+2007,volvo,xc90,,foreign used,4 wheel drives & suvs,black,4 wheel drive,petrol,lefthand drive,automatic,leather,4,0,0,2020-05-24,2600000
+2016,lexus,es,,foreign used,saloons,black,2 wheel drive,petrol,lefthand drive,automatic,leather,4,5,6,2020-05-24,13800000
+2007,lexus,gx,,foreign used,4 wheel drives & suvs,black,4 wheel drive,petrol,lefthand drive,automatic,leather,4,4,1,2020-05-24,5850000
+2008,toyota,highlander,,foreign used,4 wheel drives & suvs,red,4 wheel drive,petrol,lefthand drive,automatic,leather,4,5,8,2020-05-24,3950000
+2010,toyota,4-runner,,foreign used,4 wheel drives & suvs,dark grey,4 wheel drive,petrol,lefthand drive,automatic,leather,4,5,7,2020-05-24,8900000
+2005,toyota,highlander,,foreign used,4 wheel drives & suvs,dark green,4 wheel drive,petrol,lefthand drive,automatic,leather,4,5,8,2020-05-26,3200000
+2006,toyota,highlander,,foreign used,4 wheel drives & suvs,gold,4 wheel drive,petrol,lefthand drive,automatic,cloth,4,5,8,2020-05-26,3000000
+2014,acura,mdx,,foreign used,4 wheel drives & suvs,white,4 wheel drive,petrol,lefthand drive,automatic,leather,4,5,1,2020-05-28,10700000
+2007,toyota,camry,,foreign used,saloons,dark blue,2 wheel drive,petrol,lefthand drive,automatic,leather,4,5,56,2020-06-05,2400000
+2007,toyota,highlander,,foreign used,4 wheel drives & suvs,blue,4 wheel drive,petrol,lefthand drive,automatic,leather,4,5,8,2020-06-05,3300000
+2006,toyota,highlander,,foreign used,4 wheel drives & suvs,blue,4 wheel drive,petrol,lefthand drive,automatic,leather,4,5,8,2020-06-05,2800000
+2013,toyota,corolla,,foreign used,saloons,dark blue,2 wheel drive,petrol,lefthand drive,automatic,cloth,4,5,42,2020-07-04,3350000
+2002,lexus,es-300,,foreign used,saloons,black,2 wheel drive,petrol,lefthand drive,automatic,leather,4,0,0,2020-06-20,1950000
+2009,mercedes-benz,c300,,foreign used,saloons,white,2 wheel drive,petrol,lefthand drive,automatic,leather,4,5,2,2020-07-16,4300000
+2005,lexus,rx,,foreign used,4 wheel drives & suvs,black,4 wheel drive,petrol,lefthand drive,automatic,leather,4,5,1,2020-06-06,3100000
+2002,toyota,highlander,,foreign used,4 wheel drives & suvs,black,4 wheel drive,petrol,lefthand drive,automatic,leather,4,5,8,2020-06-13,2350000
+2009,toyota,camry,,foreign used,saloons,grey,2 wheel drive,petrol,lefthand drive,automatic,leather,4,5,56,2020-06-05,2200000
+2012,toyota,corolla,,foreign used,saloons,red,2 wheel drive,petrol,lefthand drive,automatic,cloth,4,5,42,2020-06-30,3250000
+2013,toyota,corolla,,foreign used,saloons,dark grey,2 wheel drive,petrol,lefthand drive,automatic,cloth,4,5,42,2020-06-30,3350000
+2007,toyota,camry,,foreign used,saloons,grey,2 wheel drive,petrol,lefthand drive,automatic,cloth,4,5,56,2020-06-07,2250000
+2016,mercedes-benz,gle,,foreign used,4 wheel drives & suvs,black,4 wheel drive,petrol,lefthand drive,automatic,leather,4,0,0,2020-06-07,16500000
+2007,mercedes-benz,ml350,,locally used,4 wheel drives & suvs,black,4 wheel drive,petrol,lefthand drive,automatic,leather,4,0,0,2020-07-13,2550000
+2008,mercedes-benz,ml350,,foreign used,4 wheel drives & suvs,black,4 wheel drive,petrol,lefthand drive,automatic,leather,4,0,0,2020-07-19,4200000
+2015,acura,mdx,,foreign used,4 wheel drives & suvs,black,4 wheel drive,petrol,lefthand drive,automatic,leather,4,5,1,2020-07-19,11500000
+2006,toyota,highlander,,foreign used,4 wheel drives & suvs,silver,4 wheel drive,petrol,lefthand drive,automatic,cloth,4,5,8,2020-07-19,2900000
+2011,toyota,camry,,foreign used,saloons,black,2 wheel drive,petrol,lefthand drive,automatic,cloth,4,5,56,2020-07-19,3200000
+2007,mercedes-benz,ml350,,foreign used,4 wheel drives & suvs,silver,4 wheel drive,petrol,lefthand drive,automatic,leather,4,0,0,2020-07-27,3600000
+2015,toyota,highlander,,foreign used,4 wheel drives & suvs,black,4 wheel drive,petrol,lefthand drive,automatic,leather,4,5,8,2020-07-26,10900000
+2014,toyota,corolla,,foreign used,saloons,green,2 wheel drive,petrol,lefthand drive,automatic,cloth,4,5,42,2020-07-19,4500000
+2011,toyota,venza,,foreign used,4 wheel drives & suvs,grey,4 wheel drive,petrol,lefthand drive,automatic,leather,4,5,3,2020-08-06,5600000
+2005,mercedes-benz,c230,,foreign used,coupes,grey,2 wheel drive,petrol,lefthand drive,automatic,leather,2,5,1,2020-08-06,2300000
+2013,mercedes-benz,c250,,foreign used,saloons,silver,2 wheel drive,petrol,lefthand drive,automatic,leather,4,0,0,2020-09-01,5700000
+2013,toyota,rav4,,foreign used,4 wheel drives & suvs,black,4 wheel drive,petrol,lefthand drive,automatic,leather,4,5,7,2020-08-17,8000000
+2012,toyota,highlander,,foreign used,4 wheel drives & suvs,dark blue,4 wheel drive,petrol,lefthand drive,automatic,leather,4,5,8,2020-08-17,6300000
+2015,lexus,rx,,foreign used,4 wheel drives & suvs,black,4 wheel drive,petrol,lefthand drive,automatic,leather,4,5,1,2020-08-25,11500000
+2006,honda,pilot,,foreign used,4 wheel drives & suvs,silver,4 wheel drive,petrol,lefthand drive,automatic,cloth,4,4,1,2020-08-19,2300000
+2017,lexus,rx,,foreign used,4 wheel drives & suvs,red,4 wheel drive,petrol,lefthand drive,automatic,leather,4,5,1,2020-08-29,16000000
+2003,lexus,es-300,89000,locally used,saloons,black,2 wheel drive,petrol,lefthand drive,automatic,leather,4,0,0,2020-07-29,1500000
+2007,honda,element,,foreign used,4 wheel drives & suvs,grey,4 wheel drive,petrol,lefthand drive,automatic,leather,4,0,0,2020-07-31,1900000
+2014,toyota,highlander,,foreign used,4 wheel drives & suvs,green,4 wheel drive,petrol,lefthand drive,automatic,leather,4,5,8,2020-07-31,10800000
+2006,lexus,es,,foreign used,saloons,brown,2 wheel drive,petrol,lefthand drive,automatic,leather,4,5,6,2020-08-01,2450000
+2008,toyota,sienna,,foreign used,"buses, taxis and vans",black,4 wheel drive,petrol,lefthand drive,automatic,leather,4,4,4,2020-08-01,3200000
+2010,toyota,corolla,,foreign used,saloons,silver,2 wheel drive,petrol,lefthand drive,automatic,cloth,4,5,42,2020-08-01,2600000
+2011,toyota,camry,,foreign used,saloons,blue,2 wheel drive,petrol,lefthand drive,automatic,leather,4,5,56,2020-08-01,3050000
+2013,toyota,venza,,locally used,4 wheel drives & suvs,dark grey,4 wheel drive,petrol,lefthand drive,automatic,leather,4,5,3,2020-07-31,4850000
+2007,lexus,rx,,locally used,4 wheel drives & suvs,silver,4 wheel drive,petrol,lefthand drive,automatic,leather,4,5,1,2020-07-31,2550000
+2013,lexus,rx,,foreign used,4 wheel drives & suvs,silver,4 wheel drive,petrol,lefthand drive,automatic,leather,4,5,1,2020-08-04,7900000
+2012,mercedes-benz,c250,,foreign used,saloons,red,2 wheel drive,petrol,lefthand drive,automatic,leather,4,0,0,2020-08-04,3500000
+2004,lexus,rx,,foreign used,4 wheel drives & suvs,silver,4 wheel drive,petrol,lefthand drive,automatic,leather,4,5,1,2020-07-31,3500000
+2004,toyota,camry,98000,locally used,saloons,grey,2 wheel drive,petrol,lefthand drive,automatic,cloth,4,5,56,2020-08-08,1800000
+2009,volvo,xc90,85000,locally used,4 wheel drives & suvs,black,4 wheel drive,petrol,lefthand drive,automatic,cloth,4,0,0,2020-07-29,1650000
+2004,toyota,camry,,locally used,saloons,grey,2 wheel drive,petrol,lefthand drive,automatic,cloth,4,5,56,2020-08-08,1200000
+2008,toyota,camry,,locally used,saloons,black,2 wheel drive,petrol,lefthand drive,automatic,leather,4,5,56,2020-08-08,1650000
+2009,lexus,rx,,foreign used,4 wheel drives & suvs,black,4 wheel drive,petrol,lefthand drive,automatic,leather,4,5,1,2020-08-26,4500000
+2006,toyota,highlander,,foreign used,4 wheel drives & suvs,white,4 wheel drive,petrol,lefthand drive,automatic,cloth,4,5,8,2020-08-13,2750000
+2006,lexus,es,,foreign used,saloons,black,2 wheel drive,petrol,lefthand drive,automatic,leather,4,5,6,2020-08-11,2450000
+2013,toyota,highlander,,foreign used,4 wheel drives & suvs,white,4 wheel drive,petrol,lefthand drive,automatic,leather,4,5,8,2020-08-26,7250000
+2000,toyota,camry,,locally used,saloons,grey,2 wheel drive,petrol,lefthand drive,automatic,cloth,4,5,56,2020-08-11,930000
+2000,lexus,rx,,locally used,4 wheel drives & suvs,black,4 wheel drive,petrol,lefthand drive,automatic,leather,4,5,1,2020-08-27,1450000
+2017,lexus,rx,,locally used,4 wheel drives & suvs,silver,4 wheel drive,petrol,lefthand drive,automatic,leather,4,5,1,2020-08-12,13900000
+2012,ivm,1021a,,locally used,"buses, taxis and vans",white,4 wheel drive,petrol,lefthand drive,manual,cloth,3,0,0,2020-08-17,3400000
+2009,volkswagen,tiguan,,foreign used,4 wheel drives & suvs,silver,4 wheel drive,petrol,lefthand drive,automatic,cloth,4,0,0,2020-08-11,2900000
+2012,toyota,sienna,,locally used,"buses, taxis and vans",grey,4 wheel drive,petrol,lefthand drive,automatic,leather,4,4,4,2020-08-27,2950000
+2009,acura,mdx,,foreign used,4 wheel drives & suvs,silver,4 wheel drive,petrol,lefthand drive,automatic,leather,4,5,1,2020-08-11,2900000
+2004,lexus,es,,locally used,saloons,gold,2 wheel drive,petrol,lefthand drive,automatic,leather,4,5,6,2020-08-23,1350000
+2019,toyota,hilux,,brand new,pickups,white,4 wheel drive,petrol,lefthand drive,automatic,cloth,4,0,0,2020-08-24,19500000
+2013,toyota,hiace,,foreign used,"buses, taxis and vans",white,4 wheel drive,petrol,lefthand drive,manual,cloth,3,0,0,2020-08-18,28000000
+2010,toyota,camry,,foreign used,saloons,red,2 wheel drive,petrol,lefthand drive,automatic,cloth,4,5,56,2020-08-10,3200000
+2010,toyota,avalon,,foreign used,saloons,silver,2 wheel drive,petrol,lefthand drive,automatic,leather,4,4,5,2020-08-10,3500000
+2010,lexus,rx,,foreign used,4 wheel drives & suvs,dark grey,4 wheel drive,petrol,lefthand drive,automatic,leather,4,5,1,2020-08-10,6500000
+2019,toyota,tacoma,,foreign used,pickups,grey,4 wheel drive,petrol,lefthand drive,automatic,cloth,4,0,0,2020-08-10,19000000
+2014,toyota,camry,,foreign used,saloons,grey,2 wheel drive,petrol,lefthand drive,automatic,cloth,4,5,56,2020-08-10,5500000
+2011,toyota,corolla,,foreign used,saloons,grey,2 wheel drive,petrol,lefthand drive,automatic,cloth,4,5,42,2020-08-10,3500000
+2006,lexus,es,,foreign used,saloons,green,2 wheel drive,petrol,lefthand drive,automatic,leather,4,5,6,2020-08-10,2700000
+2013,toyota,venza,95000,foreign used,4 wheel drives & suvs,grey,4 wheel drive,petrol,lefthand drive,automatic,cloth,4,5,3,2020-08-03,5200000
+2011,toyota,camry,115000,foreign used,saloons,grey,2 wheel drive,petrol,lefthand drive,automatic,leather,4,5,56,2020-08-07,3300000
+2013,lexus,rx,95000,foreign used,4 wheel drives & suvs,grey,4 wheel drive,petrol,lefthand drive,automatic,leather,4,5,1,2020-07-28,3900000
+2012,toyota,venza,95000,foreign used,4 wheel drives & suvs,grey,4 wheel drive,petrol,lefthand drive,automatic,cloth,4,5,3,2020-07-28,5400000
+2005,toyota,sienna,98000,foreign used,"buses, taxis and vans",blue,4 wheel drive,petrol,lefthand drive,automatic,leather,4,4,4,2020-07-28,2400000
+2015,hyundai,sonata,83000,foreign used,saloons,black,2 wheel drive,petrol,lefthand drive,automatic,leather,4,0,0,2020-08-28,5300000
+2010,mercedes-benz,gl-450,,foreign used,4 wheel drives & suvs,maroon,4 wheel drive,petrol,lefthand drive,automatic,leather,4,0,0,2020-08-06,9500000
+2009,toyota,highlander,,foreign used,4 wheel drives & suvs,blue,4 wheel drive,petrol,lefthand drive,automatic,leather,4,5,8,2020-08-06,4000000
+2005,toyota,camry,,foreign used,saloons,red,2 wheel drive,petrol,lefthand drive,automatic,cloth,4,5,56,2020-08-07,1750000
+2008,toyota,corolla,,foreign used,saloons,red,2 wheel drive,petrol,lefthand drive,automatic,cloth,4,5,42,2020-08-07,2700000
+2006,toyota,highlander,,foreign used,4 wheel drives & suvs,silver,4 wheel drive,petrol,lefthand drive,automatic,leather,4,5,8,2020-08-07,2900000
+2009,acura,tsx,,foreign used,saloons,grey,2 wheel drive,petrol,lefthand drive,automatic,leather,4,0,0,2020-08-07,3500000
+2007,toyota,camry,,foreign used,saloons,black,2 wheel drive,petrol,lefthand drive,automatic,leather,4,5,56,2020-09-03,2800000
+2009,honda,accord,,foreign used,saloons,black,2 wheel drive,petrol,lefthand drive,automatic,cloth,4,5,37,2020-08-11,2500000
+2018,lexus,rx,,foreign used,4 wheel drives & suvs,silver,4 wheel drive,petrol,lefthand drive,automatic,cloth,4,5,1,2020-08-11,18000000
+2005,pontiac,vibe,,foreign used,hatchbacks,black,2 wheel drive,petrol,lefthand drive,automatic,cloth,4,5,2,2020-08-08,1800000
+2009,lexus,rx,,foreign used,4 wheel drives & suvs,white,4 wheel drive,petrol,lefthand drive,automatic,leather,4,5,1,2020-08-08,4000000
+2004,toyota,sienna,,foreign used,"buses, taxis and vans",gold,4 wheel drive,petrol,lefthand drive,automatic,leather,4,4,4,2020-08-08,2500000
+2004,toyota,sienna,,foreign used,"buses, taxis and vans",blue,4 wheel drive,petrol,lefthand drive,automatic,leather,4,4,4,2020-08-08,2500000
+2002,toyota,tacoma,,foreign used,pickups,red,4 wheel drive,petrol,lefthand drive,automatic,cloth,4,0,0,2020-08-08,3500000
+2013,mercedes-benz,ml350,135000,foreign used,4 wheel drives & suvs,silver,4 wheel drive,petrol,lefthand drive,automatic,leather,4,0,0,2020-09-05,9200000
+2006,lexus,es,,brand new,saloons,maroon,2 wheel drive,petrol,lefthand drive,automatic,leather,4,5,6,2020-08-18,3000000
+2019,honda,accord,,locally used,saloons,blue,2 wheel drive,petrol,lefthand drive,automatic,leather,4,5,37,2020-08-18,1500000
+2019,toyota,corolla,,foreign used,saloons,red,2 wheel drive,petrol,lefthand drive,automatic,cloth,4,5,42,2020-08-18,2800000
+2009,toyota,camry,,foreign used,saloons,black,2 wheel drive,petrol,lefthand drive,automatic,cloth,4,5,56,2020-08-18,2400000
+2009,honda,accord,,locally used,saloons,black,2 wheel drive,petrol,lefthand drive,automatic,leather,4,5,37,2020-08-18,1500000
+2014,mercedes-benz,gle-350,,brand new,saloons,dark green,4 wheel drive,petrol,lefthand drive,automatic,leather,4,0,0,2020-08-18,18500000
+2004,toyota,highlander,,locally used,4 wheel drives & suvs,gold,4 wheel drive,petrol,lefthand drive,automatic,leather,4,5,8,2020-08-18,2200000
+2006,toyota,sienna,,foreign used,"buses, taxis and vans",grey,4 wheel drive,petrol,lefthand drive,automatic,leather,4,4,4,2020-08-18,2500000
+2007,toyota,corolla,,foreign used,saloons,blue,2 wheel drive,petrol,lefthand drive,automatic,cloth,4,5,42,2020-08-20,2200000
+2008,mercedes-benz,c230,,foreign used,saloons,silver,2 wheel drive,petrol,lefthand drive,automatic,leather,4,5,1,2020-08-18,2400000
+2008,toyota,corolla,,foreign used,saloons,red,2 wheel drive,petrol,lefthand drive,automatic,cloth,4,5,42,2020-08-18,2800000
+2008,toyota,camry,,locally used,saloons,blue,2 wheel drive,petrol,lefthand drive,automatic,cloth,4,5,56,2020-08-25,1800000
+2011,toyota,camry,,foreign used,saloons,red,2 wheel drive,petrol,lefthand drive,automatic,cloth,4,5,56,2020-08-20,3300000
+2008,toyota,camry,,locally used,saloons,silver,2 wheel drive,petrol,lefthand drive,automatic,cloth,4,5,56,2020-08-20,1700000
+2007,toyota,prius,,foreign used,saloons,grey,2 wheel drive,petrol,lefthand drive,automatic,leather,4,0,0,2020-08-20,2100000
+2010,toyota,venza,,locally used,4 wheel drives & suvs,white,4 wheel drive,petrol,lefthand drive,automatic,leather,4,5,3,2020-08-20,3100000
+2008,toyota,camry,,foreign used,saloons,silver,2 wheel drive,petrol,lefthand drive,automatic,leather,4,5,56,2020-08-20,2100000
+2004,toyota,corolla,,foreign used,saloons,silver,2 wheel drive,petrol,lefthand drive,automatic,cloth,4,5,42,2020-08-20,1800000
+2008,toyota,rav4,,foreign used,4 wheel drives & suvs,gold,4 wheel drive,petrol,lefthand drive,automatic,cloth,4,5,7,2020-09-02,2900000
+2008,toyota,camry,,locally used,saloons,red,4 wheel drive,petrol,lefthand drive,automatic,leather,4,5,56,2020-09-02,2100000
+2009,lexus,is,,foreign used,saloons,dark grey,2 wheel drive,petrol,lefthand drive,automatic,leather,4,5,1,2020-09-03,3500000
+2007,toyota,highlander,,foreign used,4 wheel drives & suvs,white,4 wheel drive,petrol,lefthand drive,automatic,leather,4,5,8,2020-09-04,3200000
+2010,mercedes-benz,glk,,locally used,4 wheel drives & suvs,black,4 wheel drive,petrol,lefthand drive,automatic,leather,4,5,3,2020-09-04,3800000
+2013,toyota,camry,,foreign used,saloons,black,2 wheel drive,petrol,lefthand drive,automatic,leather,4,5,56,2020-09-03,4500000
+2010,toyota,venza,,locally used,4 wheel drives & suvs,black,4 wheel drive,petrol,lefthand drive,automatic,leather,4,5,3,2020-09-02,3800000
+2014,toyota,venza,,locally used,4 wheel drives & suvs,white,4 wheel drive,petrol,lefthand drive,automatic,leather,4,5,3,2020-09-02,4800000
+2009,lexus,is,76532,foreign used,saloons,black,2 wheel drive,petrol,lefthand drive,automatic,leather,4,5,1,2020-08-29,4200000
+2013,lexus,es,67542,foreign used,saloons,gold,2 wheel drive,petrol,lefthand drive,automatic,leather,4,5,6,2020-05-16,6800000
+2009,honda,pilot,64012,foreign used,4 wheel drives & suvs,grey,4 wheel drive,petrol,lefthand drive,automatic,leather,4,4,1,2020-08-28,3900000
+2012,lexus,es,59871,foreign used,saloons,silver,2 wheel drive,petrol,lefthand drive,automatic,leather,4,5,6,2020-08-28,5200000
+2011,ford,edge,76438,foreign used,4 wheel drives & suvs,silver,4 wheel drive,petrol,lefthand drive,automatic,leather,4,5,1,2020-08-05,4700000
+2010,honda,crosstour,88665,foreign used,4 wheel drives & suvs,silver,4 wheel drive,petrol,lefthand drive,automatic,cloth,4,0,0,2020-08-06,4000000
+2010,honda,pilot,76438,foreign used,4 wheel drives & suvs,white,4 wheel drive,petrol,lefthand drive,automatic,leather,4,4,1,2020-07-27,4300000
+2010,toyota,camry,74386,foreign used,saloons,gold,2 wheel drive,petrol,lefthand drive,automatic,cloth,4,5,56,2020-07-27,2700000
+2011,toyota,camry,76214,foreign used,saloons,gold,2 wheel drive,petrol,lefthand drive,automatic,leather,4,5,56,2020-07-27,3100000
+2011,toyota,corolla,81655,foreign used,saloons,red,2 wheel drive,petrol,lefthand drive,automatic,cloth,4,5,42,2020-07-27,3200000
+2007,honda,ridgeline,120086,foreign used,pickups,silver,4 wheel drive,petrol,lefthand drive,automatic,leather,4,0,0,2020-07-27,3900000
+2012,toyota,corolla,79432,foreign used,saloons,black,2 wheel drive,petrol,lefthand drive,automatic,cloth,4,5,42,2020-07-27,3300000
+2011,toyota,venza,,foreign used,4 wheel drives & suvs,brown,4 wheel drive,petrol,lefthand drive,automatic,leather,4,5,3,2020-06-29,5600000
+2010,mitsubishi,outlander,,foreign used,4 wheel drives & suvs,white,4 wheel drive,petrol,lefthand drive,automatic,leather,4,0,0,2020-06-29,2850000
+2017,lexus,rx,,foreign used,4 wheel drives & suvs,white,4 wheel drive,petrol,lefthand drive,automatic,leather,4,5,1,2020-06-29,17000000
+2016,toyota,4-runner,,foreign used,4 wheel drives & suvs,white,4 wheel drive,petrol,lefthand drive,automatic,leather,4,5,7,2020-06-29,16800000
+2018,toyota,highlander,,foreign used,4 wheel drives & suvs,black,4 wheel drive,petrol,lefthand drive,automatic,leather,4,5,8,2020-06-29,17800000
+2015,lexus,gx,,foreign used,4 wheel drives & suvs,white,4 wheel drive,petrol,lefthand drive,automatic,leather,4,4,1,2020-06-29,17000000
+2009,toyota,camry,,foreign used,saloons,gold,2 wheel drive,petrol,lefthand drive,automatic,leather,4,5,56,2020-06-29,2600000
+2011,toyota,venza,,foreign used,4 wheel drives & suvs,grey,4 wheel drive,petrol,lefthand drive,automatic,cloth,4,5,3,2020-06-29,5200000
+2008,honda,cr-v,,foreign used,4 wheel drives & suvs,dark grey,4 wheel drive,petrol,lefthand drive,automatic,leather,4,5,6,2020-06-29,2950000
+2013,mercedes-benz,gle-350,,foreign used,4 wheel drives & suvs,brown,4 wheel drive,petrol,lefthand drive,automatic,leather,4,0,0,2020-06-29,11000000
+2011,mercedes-benz,glk,,foreign used,4 wheel drives & suvs,white,4 wheel drive,petrol,lefthand drive,automatic,leather,4,5,3,2020-06-29,5600000
+2010,toyota,highlander,,foreign used,4 wheel drives & suvs,silver,4 wheel drive,petrol,lefthand drive,automatic,leather,4,5,8,2020-07-01,5500000
+2004,toyota,avalon,,locally used,saloons,silver,2 wheel drive,petrol,lefthand drive,automatic,leather,4,4,5,2020-07-02,1700000
+2008,toyota,highlander,,foreign used,4 wheel drives & suvs,maroon,4 wheel drive,petrol,lefthand drive,automatic,leather,4,5,8,2020-07-02,4800000
+2018,toyota,highlander,,foreign used,4 wheel drives & suvs,white,4 wheel drive,petrol,lefthand drive,automatic,leather,4,5,8,2020-07-02,18500000
+2009,toyota,camry,,foreign used,saloons,silver,2 wheel drive,petrol,lefthand drive,automatic,cloth,4,5,56,2020-07-02,2850000
+2007,land-rover,range-rover-sport,,foreign used,4 wheel drives & suvs,black,4 wheel drive,petrol,lefthand drive,automatic,leather,4,4,1,2020-07-02,6500000
+2007,ford,edge,,foreign used,4 wheel drives & suvs,silver,4 wheel drive,petrol,lefthand drive,automatic,leather,4,5,1,2020-07-02,2900000
+2006,lexus,rx,,foreign used,4 wheel drives & suvs,black,4 wheel drive,petrol,lefthand drive,automatic,leather,4,5,1,2020-07-02,3850000
+2006,acura,mdx,,foreign used,4 wheel drives & suvs,silver,4 wheel drive,petrol,lefthand drive,automatic,leather,4,5,1,2020-07-02,2400000
+2008,toyota,camry,,foreign used,saloons,black,2 wheel drive,petrol,lefthand drive,automatic,leather,4,5,56,2020-07-02,2850000
+2009,toyota,camry,,foreign used,saloons,silver,2 wheel drive,petrol,lefthand drive,automatic,cloth,4,5,56,2020-07-02,2850000
+2008,toyota,camry,,foreign used,saloons,dark blue,2 wheel drive,petrol,lefthand drive,automatic,leather,4,5,56,2020-07-02,2780000
+2010,toyota,venza,,foreign used,4 wheel drives & suvs,brown,4 wheel drive,petrol,lefthand drive,automatic,leather,4,5,3,2020-07-02,5500000
+2016,toyota,land-cruiser-prado,,foreign used,4 wheel drives & suvs,black,4 wheel drive,petrol,lefthand drive,automatic,leather,4,0,0,2020-07-02,22000000
+2009,toyota,camry,,foreign used,saloons,silver,2 wheel drive,petrol,lefthand drive,automatic,cloth,4,5,56,2020-07-02,2850000
+2016,toyota,land-cruiser-prado,,foreign used,4 wheel drives & suvs,white,4 wheel drive,petrol,lefthand drive,automatic,leather,4,0,0,2020-07-02,22000000
+2003,lexus,es,,foreign used,saloons,blue,2 wheel drive,petrol,lefthand drive,automatic,leather,4,5,6,2020-07-02,2450000
+2005,toyota,corolla,,foreign used,saloons,grey,2 wheel drive,petrol,lefthand drive,automatic,cloth,4,5,42,2020-07-02,2000000
+2008,toyota,camry,,foreign used,saloons,red,2 wheel drive,petrol,lefthand drive,automatic,leather,4,5,56,2020-07-02,2950000
+2010,acura,mdx,,foreign used,4 wheel drives & suvs,black,4 wheel drive,petrol,lefthand drive,automatic,leather,4,5,1,2020-07-02,6200000
+2015,mercedes-benz,gle,,foreign used,4 wheel drives & suvs,black,4 wheel drive,petrol,lefthand drive,automatic,leather,4,0,0,2020-07-02,9700000
+2010,toyota,venza,,foreign used,4 wheel drives & suvs,brown,4 wheel drive,petrol,lefthand drive,automatic,leather,4,5,3,2020-07-02,5500000
+2008,acura,mdx,,foreign used,4 wheel drives & suvs,silver,4 wheel drive,petrol,lefthand drive,automatic,leather,4,5,1,2020-07-02,3850000
+2006,acura,mdx,,foreign used,4 wheel drives & suvs,silver,4 wheel drive,petrol,lefthand drive,automatic,leather,4,5,1,2020-07-02,2500000
+2008,acura,mdx,,foreign used,4 wheel drives & suvs,maroon,4 wheel drive,petrol,lefthand drive,automatic,leather,4,5,1,2020-07-02,3800000
+2008,toyota,camry,,foreign used,saloons,silver,2 wheel drive,petrol,lefthand drive,automatic,leather,4,5,56,2020-07-02,2800000
+2015,mercedes-benz,gle,,foreign used,4 wheel drives & suvs,black,4 wheel drive,petrol,lefthand drive,automatic,leather,4,0,0,2020-07-02,9700000
+2011,lexus,rx,,foreign used,4 wheel drives & suvs,maroon,4 wheel drive,petrol,lefthand drive,automatic,leather,4,5,1,2020-07-02,7800000
+2008,toyota,rav4,,foreign used,4 wheel drives & suvs,black,4 wheel drive,petrol,lefthand drive,automatic,leather,4,5,7,2020-07-02,3500000
+2005,toyota,corolla,,foreign used,saloons,grey,2 wheel drive,petrol,lefthand drive,automatic,cloth,4,5,42,2020-07-02,2000000
+2016,toyota,land-cruiser-prado,,foreign used,4 wheel drives & suvs,white,4 wheel drive,petrol,lefthand drive,automatic,leather,4,0,0,2020-07-02,18700000
+2016,lexus,gx,,foreign used,4 wheel drives & suvs,black,4 wheel drive,petrol,lefthand drive,automatic,leather,4,4,1,2020-07-02,18700000
+2010,acura,mdx,,foreign used,4 wheel drives & suvs,black,4 wheel drive,petrol,lefthand drive,automatic,leather,4,5,1,2020-07-02,6200000
+2012,lexus,gx,,foreign used,4 wheel drives & suvs,silver,4 wheel drive,petrol,lefthand drive,automatic,leather,4,4,1,2020-07-02,15000000
+2008,toyota,camry,,foreign used,saloons,red,2 wheel drive,petrol,lefthand drive,automatic,leather,4,5,56,2020-07-02,2950000
+2008,toyota,fj-cruiser,,foreign used,4 wheel drives & suvs,black,4 wheel drive,petrol,lefthand drive,automatic,leather,4,0,0,2020-07-02,5600000
+2003,lexus,es,,foreign used,saloons,blue,2 wheel drive,petrol,lefthand drive,automatic,leather,4,5,6,2020-07-02,2450000
+2008,toyota,camry,,foreign used,saloons,dark blue,2 wheel drive,petrol,lefthand drive,automatic,leather,4,5,56,2020-07-02,2780000
+2012,mercedes-benz,e350,20,foreign used,saloons,white,2 wheel drive,petrol,lefthand drive,automatic,leather,NA,5,2,2020-07-02,12000000
+2008,toyota,rav4,,foreign used,4 wheel drives & suvs,red,4 wheel drive,petrol,lefthand drive,automatic,leather,4,5,7,2020-07-02,3500000
+2011,toyota,venza,,foreign used,4 wheel drives & suvs,silver,4 wheel drive,petrol,lefthand drive,automatic,leather,4,5,3,2020-07-02,7000000
+2008,acura,mdx,,foreign used,4 wheel drives & suvs,white,4 wheel drive,petrol,lefthand drive,automatic,leather,4,5,1,2020-07-02,3990000
+2011,mercedes-benz,e350,,foreign used,saloons,white,2 wheel drive,petrol,lefthand drive,automatic,leather,4,5,2,2020-07-02,8950000
+2015,toyota,yaris,,foreign used,saloons,white,2 wheel drive,petrol,lefthand drive,automatic,leather,4,5,2,2020-07-02,5200000
+2009,mercedes-benz,c300,,foreign used,saloons,silver,2 wheel drive,petrol,lefthand drive,automatic,leather,4,5,2,2020-07-02,4400000
+2008,toyota,rav4,20,foreign used,4 wheel drives & suvs,green,4 wheel drive,petrol,lefthand drive,automatic,leather,NA,5,7,2020-07-02,3500000
+2010,acura,mdx,,foreign used,4 wheel drives & suvs,black,4 wheel drive,petrol,lefthand drive,automatic,leather,4,5,1,2020-07-02,5800000
+2008,acura,mdx,,foreign used,4 wheel drives & suvs,white,4 wheel drive,petrol,lefthand drive,automatic,leather,4,5,1,2020-07-02,3990000
+2008,toyota,rav4,20,foreign used,4 wheel drives & suvs,green,4 wheel drive,petrol,lefthand drive,automatic,leather,NA,5,7,2020-07-02,3500000
+2008,toyota,rav4,20,foreign used,4 wheel drives & suvs,green,4 wheel drive,petrol,lefthand drive,automatic,leather,NA,5,7,2020-07-02,3500000
+2008,lexus,rx,,foreign used,4 wheel drives & suvs,blue,4 wheel drive,petrol,lefthand drive,automatic,leather,4,5,1,2020-07-02,3750000
+2008,toyota,camry,,foreign used,saloons,dark blue,2 wheel drive,petrol,lefthand drive,automatic,leather,4,5,56,2020-07-02,2780000
+2013,lexus,gx,,foreign used,4 wheel drives & suvs,grey,4 wheel drive,petrol,lefthand drive,automatic,leather,4,4,1,2020-07-02,14500000
+2008,lexus,rx,,foreign used,4 wheel drives & suvs,blue,4 wheel drive,petrol,lefthand drive,automatic,leather,4,5,1,2020-07-02,3750000
+2008,toyota,camry,,foreign used,saloons,silver,2 wheel drive,petrol,lefthand drive,automatic,leather,4,5,56,2020-07-02,2750000
+2013,toyota,sequoia,,foreign used,4 wheel drives & suvs,black,4 wheel drive,petrol,lefthand drive,automatic,leather,4,4,1,2020-07-02,12500000
+2011,toyota,sequoia,,foreign used,4 wheel drives & suvs,black,4 wheel drive,petrol,lefthand drive,automatic,leather,4,4,1,2020-07-02,11500000
+2008,toyota,camry,,foreign used,saloons,silver,2 wheel drive,petrol,lefthand drive,automatic,leather,4,5,56,2020-07-02,2750000
+2011,toyota,venza,,foreign used,4 wheel drives & suvs,silver,4 wheel drive,petrol,lefthand drive,automatic,leather,4,5,3,2020-07-02,7000000
+2012,mercedes-benz,e350,20,foreign used,saloons,white,2 wheel drive,petrol,lefthand drive,automatic,leather,NA,5,2,2020-07-02,12000000
+2011,mercedes-benz,e350,,foreign used,saloons,white,2 wheel drive,petrol,lefthand drive,automatic,leather,4,5,2,2020-07-02,8950000
+2016,lexus,gx,,foreign used,4 wheel drives & suvs,black,4 wheel drive,petrol,lefthand drive,automatic,leather,4,4,1,2020-07-02,18700000
+2009,mercedes-benz,c300,,foreign used,saloons,silver,2 wheel drive,petrol,lefthand drive,automatic,leather,4,5,2,2020-07-02,4400000
+2016,toyota,land-cruiser-prado,,foreign used,4 wheel drives & suvs,white,4 wheel drive,petrol,lefthand drive,automatic,leather,4,0,0,2020-07-02,18700000
+2011,toyota,sequoia,,foreign used,4 wheel drives & suvs,black,4 wheel drive,petrol,lefthand drive,automatic,leather,4,4,1,2020-07-02,11500000
+2008,acura,mdx,,foreign used,4 wheel drives & suvs,white,4 wheel drive,petrol,lefthand drive,automatic,leather,4,5,1,2020-07-02,3990000
+2007,toyota,corolla,,foreign used,saloons,maroon,2 wheel drive,petrol,lefthand drive,automatic,leather,4,5,42,2020-07-02,2450000
+2008,toyota,fj-cruiser,,foreign used,4 wheel drives & suvs,black,4 wheel drive,petrol,lefthand drive,automatic,leather,4,0,0,2020-07-02,5600000
+2008,toyota,rav4,,foreign used,4 wheel drives & suvs,black,4 wheel drive,petrol,lefthand drive,automatic,leather,4,5,7,2020-07-02,3500000
+2012,lexus,gx,,foreign used,4 wheel drives & suvs,silver,4 wheel drive,petrol,lefthand drive,automatic,leather,4,4,1,2020-07-02,15000000
+2011,lexus,rx,,foreign used,4 wheel drives & suvs,maroon,4 wheel drive,petrol,lefthand drive,automatic,leather,4,5,1,2020-07-02,7800000
+2006,lexus,rx,,foreign used,4 wheel drives & suvs,black,4 wheel drive,petrol,lefthand drive,automatic,leather,4,5,1,2020-07-02,3850000
+2007,toyota,avalon,,foreign used,saloons,grey,2 wheel drive,petrol,lefthand drive,automatic,leather,4,4,5,2020-07-02,2750000
+2006,acura,mdx,,foreign used,4 wheel drives & suvs,silver,4 wheel drive,petrol,lefthand drive,automatic,leather,4,5,1,2020-07-02,2400000
+2008,toyota,camry,,foreign used,saloons,silver,2 wheel drive,petrol,lefthand drive,automatic,leather,4,5,56,2020-07-02,2850000
+2007,toyota,corolla,,foreign used,saloons,silver,2 wheel drive,petrol,lefthand drive,automatic,cloth,4,5,42,2020-07-02,2450000
+2016,toyota,land-cruiser-prado,,foreign used,4 wheel drives & suvs,white,4 wheel drive,petrol,lefthand drive,automatic,leather,4,0,0,2020-07-02,22000000
+2008,toyota,camry,,foreign used,saloons,black,2 wheel drive,petrol,lefthand drive,automatic,leather,4,5,56,2020-07-02,2850000
+2006,acura,mdx,,foreign used,4 wheel drives & suvs,silver,4 wheel drive,petrol,lefthand drive,automatic,leather,4,5,1,2020-07-02,2500000
+2009,toyota,camry,,foreign used,saloons,silver,2 wheel drive,petrol,lefthand drive,automatic,cloth,4,5,56,2020-07-02,2850000
+2016,toyota,land-cruiser-prado,,foreign used,4 wheel drives & suvs,black,4 wheel drive,petrol,lefthand drive,automatic,leather,4,0,0,2020-07-02,22000000
+2009,toyota,camry,,foreign used,saloons,silver,2 wheel drive,petrol,lefthand drive,automatic,cloth,4,5,56,2020-07-02,2850000
+2008,acura,mdx,,foreign used,4 wheel drives & suvs,maroon,4 wheel drive,petrol,lefthand drive,automatic,leather,4,5,1,2020-07-02,3800000
+2008,acura,mdx,,foreign used,4 wheel drives & suvs,silver,4 wheel drive,petrol,lefthand drive,automatic,leather,4,5,1,2020-07-02,3850000
+2008,toyota,camry,,foreign used,saloons,silver,2 wheel drive,petrol,lefthand drive,automatic,leather,4,5,56,2020-07-02,2800000
+2010,acura,zdx,,foreign used,4 wheel drives & suvs,black,4 wheel drive,petrol,lefthand drive,automatic,leather,4,0,0,2020-07-02,10000000
+2008,toyota,camry,,foreign used,saloons,dark blue,2 wheel drive,petrol,lefthand drive,automatic,leather,4,5,56,2020-07-02,2780000
+2016,toyota,rav4,,foreign used,4 wheel drives & suvs,white,4 wheel drive,petrol,lefthand drive,automatic,leather,4,5,7,2020-07-02,9800000
+2011,lexus,rx,,foreign used,4 wheel drives & suvs,silver,4 wheel drive,petrol,lefthand drive,automatic,leather,4,5,1,2020-07-02,7800000
+2011,lexus,rx,,foreign used,4 wheel drives & suvs,black,4 wheel drive,petrol,lefthand drive,automatic,leather,4,5,1,2020-07-02,7800000
+2009,toyota,camry,20,foreign used,saloons,dark grey,4 wheel drive,petrol,lefthand drive,automatic,leather,4,5,56,2020-07-02,2900000
+2013,lexus,gx,,foreign used,4 wheel drives & suvs,black,4 wheel drive,petrol,lefthand drive,automatic,leather,4,4,1,2020-07-02,15000000
+2008,toyota,camry,,foreign used,saloons,green,2 wheel drive,petrol,lefthand drive,automatic,leather,4,5,56,2020-07-02,2500000
+2008,toyota,camry,,foreign used,saloons,dark blue,2 wheel drive,petrol,lefthand drive,automatic,leather,4,5,56,2020-07-02,2780000
+2013,toyota,sequoia,,foreign used,4 wheel drives & suvs,black,4 wheel drive,petrol,lefthand drive,automatic,leather,4,4,1,2020-07-02,12500000
+2010,toyota,venza,,foreign used,4 wheel drives & suvs,grey,4 wheel drive,petrol,lefthand drive,automatic,leather,4,5,3,2020-08-01,5300000
+2010,toyota,venza,,foreign used,4 wheel drives & suvs,brown,4 wheel drive,petrol,lefthand drive,automatic,leather,4,5,3,2020-08-01,5300000
+2018,lexus,gx,,foreign used,4 wheel drives & suvs,black,4 wheel drive,petrol,lefthand drive,automatic,leather,4,4,1,2020-08-01,14800000
+2016,mercedes-benz,gle-350,,foreign used,4 wheel drives & suvs,black,4 wheel drive,petrol,lefthand drive,automatic,leather,4,0,0,2020-08-01,29000000
+2015,toyota,rav4,,foreign used,4 wheel drives & suvs,grey,4 wheel drive,petrol,lefthand drive,automatic,leather,4,5,7,2020-08-18,7000000
+2008,acura,mdx,,foreign used,4 wheel drives & suvs,silver,4 wheel drive,petrol,lefthand drive,automatic,leather,4,5,1,2020-08-18,3500000
+2012,bmw,x5,,foreign used,4 wheel drives & suvs,grey,4 wheel drive,petrol,lefthand drive,automatic,leather,4,0,0,2020-08-18,4600000
+2018,lexus,lx,,foreign used,4 wheel drives & suvs,black,4 wheel drive,petrol,lefthand drive,automatic,leather,4,5,2,2020-08-19,48000000
+2013,land-rover,range-rover,,foreign used,4 wheel drives & suvs,black,4 wheel drive,petrol,lefthand drive,automatic,leather,4,5,3,2020-09-03,6200000
+2012,ford,edge,,foreign used,4 wheel drives & suvs,dark grey,4 wheel drive,petrol,lefthand drive,automatic,leather,4,5,1,2020-08-12,5000000
+2015,toyota,corolla,,foreign used,saloons,grey,2 wheel drive,petrol,lefthand drive,automatic,leather,4,5,42,2020-08-12,5000000
+2007,lexus,rx,,foreign used,4 wheel drives & suvs,grey,4 wheel drive,petrol,lefthand drive,automatic,leather,4,5,1,2020-08-12,4200000
+2008,land-rover,range-rover-sport,,foreign used,4 wheel drives & suvs,black,4 wheel drive,petrol,lefthand drive,automatic,leather,4,4,1,2020-08-17,6500000
+2007,land-rover,range-rover-sport,,foreign used,4 wheel drives & suvs,black,4 wheel drive,petrol,lefthand drive,automatic,leather,4,4,1,2020-08-17,6500000
+2007,land-rover,range-rover-sport,,foreign used,4 wheel drives & suvs,black,4 wheel drive,petrol,lefthand drive,automatic,leather,4,4,1,2020-08-17,6500000
+2012,land-rover,range-rover-sport,,foreign used,4 wheel drives & suvs,black,4 wheel drive,petrol,lefthand drive,automatic,leather,4,4,1,2020-08-17,15000000
+2007,land-rover,range-rover-sport,,foreign used,4 wheel drives & suvs,black,4 wheel drive,petrol,lefthand drive,automatic,leather,4,4,1,2020-08-17,6500000
+2007,lexus,gs,,foreign used,saloons,black,2 wheel drive,petrol,lefthand drive,automatic,leather,4,5,1,2020-08-12,3500000
+2007,volkswagen,kombi,,foreign used,minis,green,2 wheel drive,petrol,lefthand drive,automatic,leather,2,0,0,2020-08-12,1850000
+2010,toyota,corolla,,foreign used,saloons,black,2 wheel drive,petrol,lefthand drive,automatic,cloth,4,5,42,2020-09-03,3000000
+2013,toyota,sequoia,,foreign used,4 wheel drives & suvs,black,4 wheel drive,petrol,lefthand drive,automatic,leather,4,4,1,2020-09-03,13800000
+2010,acura,mdx,,foreign used,4 wheel drives & suvs,maroon,4 wheel drive,petrol,lefthand drive,automatic,leather,4,5,1,2020-09-03,6000000
+2012,toyota,highlander,,foreign used,4 wheel drives & suvs,blue,4 wheel drive,petrol,lefthand drive,automatic,leather,4,5,8,2020-09-03,5300000
+2018,ford,f-150,,foreign used,4 wheel drives & suvs,black,4 wheel drive,petrol,lefthand drive,automatic,leather,4,0,0,2020-09-03,19000000
+2014,toyota,avalon,,foreign used,saloons,black,2 wheel drive,petrol,lefthand drive,automatic,leather,4,4,5,2020-09-03,8300000
+2008,toyota,rav4,78412,foreign used,4 wheel drives & suvs,red,4 wheel drive,petrol,lefthand drive,automatic,leather,4,5,7,2020-06-05,2950000
+2008,toyota,camry,75841,foreign used,saloons,red,2 wheel drive,petrol,lefthand drive,automatic,leather,4,5,56,2020-06-05,2200000
+2008,toyota,camry,78000,foreign used,saloons,silver,2 wheel drive,petrol,lefthand drive,automatic,leather,4,5,56,2020-06-05,2400000
+2006,lexus,es,75411,foreign used,saloons,black,4 wheel drive,petrol,lefthand drive,automatic,leather,4,5,6,2020-06-05,2100000
+2002,lexus,rx,,foreign used,4 wheel drives & suvs,gold,4 wheel drive,petrol,lefthand drive,automatic,leather,4,5,1,2020-06-05,2000000
+2002,lexus,rx,,foreign used,4 wheel drives & suvs,silver,4 wheel drive,petrol,lefthand drive,automatic,leather,4,5,1,2020-06-05,2200000
+2005,toyota,highlander,75481,foreign used,4 wheel drives & suvs,red,4 wheel drive,petrol,lefthand drive,automatic,leather,4,5,8,2020-06-05,2900000
+2011,lexus,es,78000,foreign used,saloons,red,2 wheel drive,petrol,lefthand drive,automatic,leather,4,5,6,2020-06-05,3000000
+2008,acura,mdx,,foreign used,4 wheel drives & suvs,black,4 wheel drive,petrol,lefthand drive,automatic,leather,4,5,1,2020-06-05,2800000
+2008,toyota,camry,,foreign used,saloons,silver,2 wheel drive,petrol,lefthand drive,automatic,leather,4,5,56,2020-06-05,2200000
+2010,toyota,sequoia,,foreign used,4 wheel drives & suvs,black,4 wheel drive,petrol,lefthand drive,automatic,leather,4,4,1,2020-06-05,9000000
+2010,toyota,rav4,,foreign used,4 wheel drives & suvs,black,4 wheel drive,petrol,lefthand drive,automatic,leather,4,5,7,2020-06-05,3900000
+2006,acura,mdx,,foreign used,4 wheel drives & suvs,black,4 wheel drive,petrol,lefthand drive,automatic,leather,4,5,1,2020-06-05,2000000
+2006,acura,mdx,,foreign used,4 wheel drives & suvs,dark grey,4 wheel drive,petrol,lefthand drive,automatic,leather,4,5,1,2020-06-05,2000000
+2005,toyota,4-runner,,foreign used,4 wheel drives & suvs,blue,4 wheel drive,petrol,lefthand drive,automatic,leather,4,5,7,2020-06-05,2800000
+2008,toyota,4-runner,,foreign used,4 wheel drives & suvs,grey,4 wheel drive,petrol,lefthand drive,automatic,leather,4,5,7,2020-06-05,3500000
+2011,acura,mdx,,foreign used,4 wheel drives & suvs,silver,4 wheel drive,petrol,lefthand drive,automatic,leather,4,5,1,2020-06-05,4700000
+2010,ford,explorer,,foreign used,4 wheel drives & suvs,black,4 wheel drive,petrol,lefthand drive,automatic,leather,4,4,1,2020-06-06,6500000
+2005,toyota,4-runner,,foreign used,4 wheel drives & suvs,black,4 wheel drive,petrol,lefthand drive,automatic,leather,4,5,7,2020-06-06,2800000
+2008,toyota,4-runner,,foreign used,4 wheel drives & suvs,silver,4 wheel drive,petrol,lefthand drive,automatic,leather,4,5,7,2020-06-06,3500000
+2005,toyota,4-runner,,foreign used,4 wheel drives & suvs,black,4 wheel drive,petrol,lefthand drive,automatic,leather,4,5,7,2020-06-06,2800000
+2007,lexus,gx,,foreign used,4 wheel drives & suvs,grey,4 wheel drive,petrol,lefthand drive,automatic,leather,4,4,1,2020-06-06,5000000
+2010,mercedes-benz,ml350,,foreign used,4 wheel drives & suvs,black,4 wheel drive,petrol,lefthand drive,automatic,leather,4,0,0,2020-06-26,4500000
+2005,volkswagen,transporter,,foreign used,"buses, taxis and vans",white,na,petrol,na,manual,cloth,NA,0,0,2020-08-12,2500000
+2005,peugeot,406,,locally used,saloons,dark blue,2 wheel drive,petrol,lefthand drive,manual,cloth,4,4,4,2020-07-18,950000
+2005,lexus,gx,,foreign used,4 wheel drives & suvs,black,4 wheel drive,petrol,lefthand drive,automatic,leather,4,4,1,2020-06-06,5000000
+2010,toyota,sequoia,,foreign used,4 wheel drives & suvs,silver,4 wheel drive,petrol,lefthand drive,automatic,leather,4,4,1,2020-06-06,9000000
+2015,mercedes-benz,gl-450,,foreign used,4 wheel drives & suvs,dark blue,4 wheel drive,petrol,lefthand drive,automatic,leather,4,0,0,2020-06-10,13000000
+2010,lexus,rx,85887,foreign used,4 wheel drives & suvs,dark blue,na,petrol,na,automatic,leather,NA,5,1,2020-08-26,6800000
+2015,mercedes-benz,gl-450,,foreign used,4 wheel drives & suvs,black,4 wheel drive,petrol,lefthand drive,automatic,leather,4,0,0,2020-06-10,15000000
+2005,toyota,highlander,153280,foreign used,4 wheel drives & suvs,silver,4 wheel drive,petrol,lefthand drive,automatic,cloth,4,5,8,2020-08-31,4550000
+2005,toyota,highlander,142365,foreign used,4 wheel drives & suvs,silver,4 wheel drive,petrol,lefthand drive,automatic,leather,4,5,8,2020-08-31,4650000
+2015,mercedes-benz,gl-450,,foreign used,4 wheel drives & suvs,black,4 wheel drive,petrol,lefthand drive,automatic,leather,4,0,0,2020-06-06,14000000
+2007,lexus,gx,,foreign used,4 wheel drives & suvs,white,4 wheel drive,petrol,lefthand drive,automatic,leather,4,4,1,2020-06-06,5000000
+2010,toyota,sequoia,,foreign used,4 wheel drives & suvs,grey,4 wheel drive,petrol,lefthand drive,automatic,leather,4,4,1,2020-06-06,9000000
+2003,toyota,highlander,183256,foreign used,4 wheel drives & suvs,gold,4 wheel drive,petrol,lefthand drive,automatic,cloth,4,5,8,2020-09-02,2750000
+2010,mercedes-benz,ml350,,foreign used,4 wheel drives & suvs,black,4 wheel drive,petrol,lefthand drive,automatic,leather,4,0,0,2020-06-26,4500000
+2008,mercedes-benz,ml350,,foreign used,4 wheel drives & suvs,green,4 wheel drive,petrol,lefthand drive,automatic,leather,4,0,0,2020-06-26,3500000
+2012,mercedes-benz,ml350,,foreign used,4 wheel drives & suvs,gold,4 wheel drive,petrol,lefthand drive,automatic,leather,4,0,0,2020-06-26,7000000
+2010,mercedes-benz,ml350,,foreign used,4 wheel drives & suvs,black,4 wheel drive,petrol,lefthand drive,automatic,leather,4,0,0,2020-06-26,4500000
+2010,mercedes-benz,gl-450,,foreign used,4 wheel drives & suvs,black,4 wheel drive,petrol,lefthand drive,automatic,leather,4,0,0,2020-06-26,7000000
+2010,mercedes-benz,ml350,,foreign used,4 wheel drives & suvs,silver,4 wheel drive,petrol,lefthand drive,automatic,leather,4,0,0,2020-06-26,7000000
+2001,volkswagen,transporter,,foreign used,"buses, taxis and vans",white,na,petrol,na,manual,cloth,NA,0,0,2020-08-12,2400000
+2011,lexus,es,,foreign used,saloons,blue,2 wheel drive,petrol,lefthand drive,automatic,leather,4,5,6,2020-08-03,3700000
+2016,ford,explorer,,foreign used,4 wheel drives & suvs,dark grey,4 wheel drive,petrol,lefthand drive,automatic,leather,4,4,1,2020-07-17,14000000
+2016,ford,explorer,,foreign used,4 wheel drives & suvs,black,4 wheel drive,petrol,lefthand drive,automatic,leather,4,4,1,2020-07-17,14000000
+2005,lexus,rx,,foreign used,4 wheel drives & suvs,black,4 wheel drive,petrol,lefthand drive,automatic,leather,4,5,1,2020-05-07,3200000
+2006,acura,mdx,,foreign used,4 wheel drives & suvs,silver,4 wheel drive,petrol,lefthand drive,automatic,leather,4,5,1,2020-05-07,2200000
+2006,acura,mdx,,foreign used,4 wheel drives & suvs,silver,4 wheel drive,petrol,lefthand drive,automatic,leather,4,5,1,2020-05-07,2200000
+2005,toyota,4-runner,,foreign used,4 wheel drives & suvs,silver,4 wheel drive,petrol,lefthand drive,automatic,leather,4,5,7,2020-05-07,3200000
+2008,honda,accord,,foreign used,saloons,gold,2 wheel drive,petrol,lefthand drive,automatic,leather,4,5,37,2020-05-07,2700000
+2006,acura,mdx,,foreign used,4 wheel drives & suvs,na,na,na,na,automatic,leather,NA,5,1,2020-05-07,2000000
+2006,acura,mdx,,foreign used,4 wheel drives & suvs,grey,4 wheel drive,petrol,lefthand drive,automatic,leather,4,5,1,2020-05-07,2180000
+2004,lexus,es,,foreign used,saloons,silver,2 wheel drive,petrol,lefthand drive,automatic,leather,4,5,6,2020-05-07,1800000
+2006,acura,mdx,,foreign used,4 wheel drives & suvs,red,4 wheel drive,petrol,lefthand drive,automatic,leather,4,5,1,2020-05-07,2000000
+2015,mercedes-benz,gl-class,,foreign used,4 wheel drives & suvs,grey,4 wheel drive,petrol,lefthand drive,automatic,leather,4,4,1,2020-05-07,15000000
+2009,acura,mdx,,foreign used,4 wheel drives & suvs,silver,4 wheel drive,petrol,lefthand drive,automatic,leather,4,5,1,2020-05-07,3200000
+2016,mercedes-benz,gl-class,,foreign used,4 wheel drives & suvs,dark blue,4 wheel drive,petrol,lefthand drive,automatic,leather,4,4,1,2020-05-07,15000000
+2005,toyota,camry,,foreign used,saloons,red,2 wheel drive,petrol,lefthand drive,automatic,cloth,4,5,56,2020-05-07,1800000
+2005,toyota,camry,,foreign used,saloons,red,2 wheel drive,petrol,lefthand drive,automatic,cloth,4,5,56,2020-05-07,1800000
+2016,mercedes-benz,gl-class,,foreign used,4 wheel drives & suvs,dark blue,4 wheel drive,petrol,lefthand drive,automatic,leather,4,4,1,2020-05-07,15000000
+2008,acura,mdx,,foreign used,4 wheel drives & suvs,black,4 wheel drive,petrol,lefthand drive,automatic,leather,4,5,1,2020-05-07,3000000
+2017,lexus,gx,,foreign used,4 wheel drives & suvs,dark blue,4 wheel drive,petrol,lefthand drive,automatic,leather,4,4,1,2020-05-07,19000000
+2012,acura,mdx,,foreign used,4 wheel drives & suvs,black,na,petrol,na,automatic,leather,NA,5,1,2020-05-07,4500000
+2008,lexus,es,,foreign used,saloons,brown,2 wheel drive,petrol,lefthand drive,automatic,leather,4,5,6,2020-05-07,3000000
+2008,toyota,4-runner,,foreign used,4 wheel drives & suvs,grey,4 wheel drive,petrol,lefthand drive,automatic,leather,4,5,7,2020-05-07,3000000
+2008,toyota,camry,,foreign used,saloons,green,2 wheel drive,petrol,lefthand drive,automatic,leather,4,5,56,2020-05-07,3200000
+2008,toyota,rav4,,foreign used,4 wheel drives & suvs,silver,4 wheel drive,petrol,lefthand drive,automatic,leather,4,5,7,2020-05-07,2800000
+2007,toyota,camry,,foreign used,saloons,silver,2 wheel drive,petrol,lefthand drive,automatic,leather,4,5,56,2020-05-07,2100000
+2010,toyota,camry,,foreign used,saloons,black,2 wheel drive,petrol,lefthand drive,automatic,leather,4,5,56,2020-05-07,3500000
+2006,acura,mdx,,foreign used,4 wheel drives & suvs,black,4 wheel drive,petrol,lefthand drive,automatic,leather,4,5,1,2020-05-07,2000000
+2006,acura,mdx,,foreign used,4 wheel drives & suvs,grey,4 wheel drive,petrol,lefthand drive,automatic,leather,4,5,1,2020-05-07,2000000
+2008,acura,mdx,,foreign used,4 wheel drives & suvs,silver,4 wheel drive,petrol,lefthand drive,automatic,leather,4,5,1,2020-05-07,3000000
+2002,lexus,es,,foreign used,saloons,gold,2 wheel drive,petrol,lefthand drive,automatic,leather,4,5,6,2020-05-07,2300000
+2008,mercedes-benz,c300,,foreign used,4 wheel drives & suvs,black,2 wheel drive,petrol,lefthand drive,automatic,leather,4,5,2,2020-05-07,3600000
+2011,mercedes-benz,ml350,,foreign used,4 wheel drives & suvs,black,4 wheel drive,petrol,lefthand drive,automatic,leather,4,0,0,2020-05-07,4500000
+2013,ford,explorer,,foreign used,4 wheel drives & suvs,red,4 wheel drive,petrol,lefthand drive,automatic,leather,4,4,1,2020-05-07,7500000
+2005,toyota,4-runner,,foreign used,4 wheel drives & suvs,silver,4 wheel drive,petrol,lefthand drive,automatic,leather,4,5,7,2020-05-07,3200000
+2011,lexus,rx,,foreign used,4 wheel drives & suvs,black,4 wheel drive,petrol,lefthand drive,automatic,leather,4,5,1,2020-05-07,6500000
+2008,lexus,es,,foreign used,saloons,black,2 wheel drive,petrol,lefthand drive,automatic,leather,4,5,6,2020-05-07,3200000
+2008,lexus,es,,foreign used,saloons,silver,2 wheel drive,petrol,lefthand drive,automatic,leather,4,5,6,2020-05-07,3200000
+2008,honda,accord,,foreign used,saloons,maroon,2 wheel drive,petrol,lefthand drive,automatic,leather,4,5,37,2020-05-07,2500000
+2007,lexus,gx,,foreign used,4 wheel drives & suvs,gold,4 wheel drive,petrol,lefthand drive,automatic,leather,4,4,1,2020-05-07,5000000
+2009,acura,mdx,,foreign used,4 wheel drives & suvs,silver,4 wheel drive,petrol,lefthand drive,automatic,leather,4,5,1,2020-05-07,3200000
+2012,honda,pilot,,foreign used,4 wheel drives & suvs,dark grey,4 wheel drive,petrol,lefthand drive,automatic,leather,4,4,1,2020-05-07,4500000
+2009,mercedes-benz,gl-class,,foreign used,4 wheel drives & suvs,white,4 wheel drive,petrol,lefthand drive,automatic,leather,4,4,1,2020-05-07,5000000
+2006,acura,mdx,,foreign used,4 wheel drives & suvs,black,4 wheel drive,petrol,lefthand drive,automatic,leather,4,5,1,2020-05-07,2000000
+2008,toyota,4-runner,,foreign used,4 wheel drives & suvs,grey,4 wheel drive,petrol,lefthand drive,automatic,leather,4,5,7,2020-05-07,3200000
+2016,mercedes-benz,gl-class,,foreign used,4 wheel drives & suvs,dark blue,4 wheel drive,petrol,lefthand drive,automatic,leather,4,4,1,2020-05-07,15000000
+2012,toyota,camry,,foreign used,saloons,grey,2 wheel drive,petrol,lefthand drive,automatic,leather,4,5,56,2020-05-07,4300000
+2006,acura,mdx,,foreign used,4 wheel drives & suvs,black,4 wheel drive,petrol,lefthand drive,automatic,leather,4,5,1,2020-05-07,2000000
+2012,lexus,gx,,foreign used,4 wheel drives & suvs,black,4 wheel drive,petrol,lefthand drive,automatic,leather,4,4,1,2020-05-07,11000000
+2008,acura,mdx,,foreign used,4 wheel drives & suvs,black,na,petrol,na,automatic,leather,NA,5,1,2020-05-07,3200000
+2007,lexus,gx,,foreign used,4 wheel drives & suvs,gold,4 wheel drive,petrol,lefthand drive,automatic,leather,4,4,1,2020-05-07,5000000
+2006,acura,mdx,,foreign used,4 wheel drives & suvs,red,4 wheel drive,petrol,lefthand drive,automatic,leather,4,5,1,2020-05-07,2000000
+2008,acura,mdx,,foreign used,4 wheel drives & suvs,black,4 wheel drive,petrol,lefthand drive,automatic,leather,4,5,1,2020-05-07,3000000
+2010,toyota,highlander,,foreign used,4 wheel drives & suvs,black,4 wheel drive,petrol,lefthand drive,automatic,leather,4,5,8,2020-05-07,5000000
+2011,toyota,venza,,foreign used,4 wheel drives & suvs,brown,4 wheel drive,petrol,lefthand drive,automatic,leather,4,5,3,2020-05-07,5000000
+2006,toyota,corolla,,foreign used,saloons,red,2 wheel drive,petrol,lefthand drive,automatic,cloth,4,5,42,2020-05-07,2200000
+2008,acura,mdx,,foreign used,4 wheel drives & suvs,grey,4 wheel drive,petrol,lefthand drive,automatic,leather,4,5,1,2020-06-13,3200000
+2012,acura,mdx,,foreign used,4 wheel drives & suvs,black,na,petrol,na,automatic,leather,NA,5,1,2020-06-13,6200000
+2006,acura,mdx,,foreign used,4 wheel drives & suvs,grey,4 wheel drive,petrol,lefthand drive,automatic,leather,4,5,1,2020-06-13,2200000
+2006,acura,mdx,,foreign used,4 wheel drives & suvs,black,4 wheel drive,petrol,lefthand drive,automatic,leather,4,5,1,2020-06-13,2000000
+2008,acura,mdx,,foreign used,4 wheel drives & suvs,white,4 wheel drive,petrol,lefthand drive,automatic,leather,4,5,1,2020-06-13,3000000
+2008,acura,mdx,,foreign used,4 wheel drives & suvs,white,4 wheel drive,petrol,lefthand drive,automatic,leather,4,5,1,2020-06-13,3000000
+2011,mercedes-benz,ml350,,foreign used,4 wheel drives & suvs,black,4 wheel drive,petrol,lefthand drive,automatic,leather,4,0,0,2020-06-13,4500000
+2006,toyota,corolla,,foreign used,saloons,red,2 wheel drive,petrol,lefthand drive,automatic,cloth,4,5,42,2020-06-13,2200000
+2006,acura,mdx,,foreign used,4 wheel drives & suvs,red,4 wheel drive,petrol,lefthand drive,automatic,leather,4,5,1,2020-05-07,2000000
+2012,acura,zdx,,foreign used,4 wheel drives & suvs,black,2 wheel drive,petrol,lefthand drive,automatic,leather,4,0,0,2020-05-07,8000000
+2008,acura,mdx,,foreign used,4 wheel drives & suvs,silver,4 wheel drive,petrol,lefthand drive,automatic,leather,4,5,1,2020-06-13,2800000
+2009,acura,mdx,,foreign used,4 wheel drives & suvs,silver,4 wheel drive,petrol,lefthand drive,automatic,leather,4,5,1,2020-06-13,2800000
+2009,acura,mdx,,foreign used,4 wheel drives & suvs,maroon,4 wheel drive,petrol,lefthand drive,automatic,leather,4,5,1,2020-06-13,3200000
+2009,acura,mdx,,foreign used,4 wheel drives & suvs,dark blue,4 wheel drive,diesel,lefthand drive,automatic,leather,4,5,1,2020-06-13,2800000
+2008,acura,mdx,,foreign used,4 wheel drives & suvs,grey,4 wheel drive,petrol,lefthand drive,automatic,leather,4,5,1,2020-06-13,2800000
+2008,lexus,es,,foreign used,saloons,black,2 wheel drive,petrol,lefthand drive,automatic,leather,4,5,6,2020-06-13,2700000
+2011,mercedes-benz,ml350,,foreign used,4 wheel drives & suvs,black,4 wheel drive,petrol,lefthand drive,automatic,leather,4,0,0,2020-06-13,4500000
+2007,lexus,gx,,foreign used,4 wheel drives & suvs,black,4 wheel drive,petrol,lefthand drive,automatic,leather,4,4,1,2020-06-13,5000000
+2011,lexus,gx,,foreign used,4 wheel drives & suvs,grey,4 wheel drive,petrol,lefthand drive,automatic,leather,4,4,1,2020-06-13,11000000
+2007,lexus,gx,,foreign used,4 wheel drives & suvs,silver,4 wheel drive,petrol,lefthand drive,automatic,leather,4,4,1,2020-06-13,5000000
+2008,lexus,es,,foreign used,saloons,gold,na,petrol,na,automatic,leather,NA,5,6,2020-06-13,3000000
+2007,lexus,gx,,foreign used,4 wheel drives & suvs,black,na,petrol,na,automatic,leather,NA,4,1,2020-06-13,5000000
+2008,hyundai,sonata,,locally used,saloons,black,2 wheel drive,petrol,lefthand drive,automatic,leather,4,0,0,2020-06-09,1180000
+1999,toyota,camry,,locally used,saloons,green,2 wheel drive,petrol,lefthand drive,automatic,cloth,4,5,56,2020-06-03,590000
+2009,toyota,highlander,,locally used,4 wheel drives & suvs,grey,4 wheel drive,petrol,lefthand drive,automatic,leather,4,5,8,2020-06-03,2680000
+1999,honda,cr-v,,locally used,4 wheel drives & suvs,silver,4 wheel drive,petrol,lefthand drive,automatic,cloth,4,5,6,2020-06-04,590000
+1997,honda,odyssey,,locally used,"buses, taxis and vans",other,4 wheel drive,petrol,lefthand drive,manual,leather,4,5,3,2020-06-04,550000
+2008,toyota,highlander,,locally used,4 wheel drives & suvs,black,4 wheel drive,petrol,lefthand drive,automatic,leather,4,5,8,2020-06-18,2800000
+2008,acura,mdx,,locally used,4 wheel drives & suvs,black,4 wheel drive,petrol,lefthand drive,automatic,leather,4,5,1,2020-06-18,1750000
+2007,toyota,yaris,,locally used,saloons,black,2 wheel drive,petrol,lefthand drive,automatic,cloth,4,5,2,2020-06-13,1000000
+2012,hyundai,ix35,,locally used,4 wheel drives & suvs,grey,4 wheel drive,petrol,lefthand drive,automatic,cloth,4,0,0,2020-06-16,2400000
+2012,kia,soul,,locally used,4 wheel drives & suvs,white,2 wheel drive,petrol,lefthand drive,automatic,cloth,4,4,1,2020-06-16,2300000
+1999,toyota,camry,,locally used,saloons,silver,2 wheel drive,petrol,lefthand drive,automatic,leather,4,5,56,2020-06-13,680000
+1999,toyota,camry,,locally used,saloons,black,2 wheel drive,petrol,lefthand drive,automatic,leather,4,5,56,2020-06-13,630000
+2010,honda,accord-crosstour,,locally used,4 wheel drives & suvs,silver,4 wheel drive,petrol,lefthand drive,automatic,leather,4,0,0,2020-06-21,2400000
+2008,honda,accord,,locally used,saloons,black,2 wheel drive,petrol,lefthand drive,automatic,cloth,4,5,37,2020-06-21,940000
+2012,toyota,camry,69000,foreign used,saloons,black,2 wheel drive,petrol,lefthand drive,automatic,cloth,4,5,56,2020-07-05,3600000
+2001,mitsubishi,montero,,locally used,4 wheel drives & suvs,black,4 wheel drive,petrol,lefthand drive,automatic,leather,4,0,0,2020-06-27,700000
+2006,kia,sorento,,locally used,4 wheel drives & suvs,grey,4 wheel drive,petrol,lefthand drive,automatic,leather,4,0,0,2020-06-23,890000
+1999,lexus,rx,,locally used,4 wheel drives & suvs,black,4 wheel drive,petrol,lefthand drive,automatic,leather,4,5,1,2020-06-28,1250000
+2003,nissan,frontier,,locally used,pickups,white,4 wheel drive,petrol,lefthand drive,automatic,cloth,4,0,0,2020-06-28,950000
+2008,toyota,camry,,locally used,saloons,black,2 wheel drive,petrol,lefthand drive,automatic,leather,4,5,56,2020-07-05,1680000
+2008,toyota,rav4,,locally used,4 wheel drives & suvs,dark grey,4 wheel drive,petrol,lefthand drive,automatic,leather,4,5,7,2020-07-05,1850000
+2008,ford,edge,,locally used,4 wheel drives & suvs,silver,4 wheel drive,petrol,lefthand drive,automatic,leather,4,5,1,2020-07-07,2850000
+2009,toyota,camry,,locally used,saloons,silver,2 wheel drive,petrol,lefthand drive,automatic,leather,4,5,56,2020-07-07,1750000
+2005,toyota,sienna,,locally used,"buses, taxis and vans",green,4 wheel drive,petrol,lefthand drive,automatic,cloth,4,4,4,2020-07-07,1450000
+2004,toyota,matrix,,locally used,hatchbacks,silver,2 wheel drive,petrol,lefthand drive,automatic,cloth,4,4,3,2020-07-07,1350000
+2006,toyota,sienna,,locally used,"buses, taxis and vans",green,4 wheel drive,petrol,lefthand drive,automatic,cloth,4,4,4,2020-07-07,1400000
+2008,toyota,highlander,,locally used,4 wheel drives & suvs,silver,4 wheel drive,petrol,lefthand drive,automatic,leather,4,5,8,2020-07-07,2600000
+2009,toyota,rav4,,locally used,4 wheel drives & suvs,gold,4 wheel drive,petrol,lefthand drive,automatic,leather,4,5,7,2020-07-29,2450000
+2009,toyota,camry,,locally used,saloons,gold,2 wheel drive,petrol,lefthand drive,automatic,leather,4,5,56,2020-07-29,2300000
+2004,toyota,4-runner,,locally used,4 wheel drives & suvs,grey,4 wheel drive,petrol,lefthand drive,automatic,leather,4,5,7,2020-07-09,840000
+2007,honda,civic,89000,locally used,saloons,black,2 wheel drive,petrol,lefthand drive,automatic,cloth,4,5,19,2020-07-29,890000
+2004,toyota,corolla,,locally used,saloons,grey,2 wheel drive,petrol,lefthand drive,automatic,leather,4,5,42,2020-07-29,1350000
+2008,toyota,sienna,,locally used,"buses, taxis and vans",silver,4 wheel drive,petrol,lefthand drive,automatic,leather,4,4,4,2020-07-29,1480000
+2002,toyota,4-runner,,locally used,4 wheel drives & suvs,silver,4 wheel drive,petrol,lefthand drive,automatic,cloth,4,5,7,2020-07-29,950000
+2013,ford,edge,,locally used,4 wheel drives & suvs,silver,4 wheel drive,petrol,lefthand drive,automatic,cloth,4,5,1,2020-07-29,2750000
